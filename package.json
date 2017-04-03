@@ -1,0 +1,15 @@
+{
+  "name": "encodingtool",
+  "version": "1.0.0",
+  "description": "Tool for detecting and changing character endoding of text files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hb",
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "^0.4.15",
+    "jschardet": "^1.4.2"
+  }
+}
